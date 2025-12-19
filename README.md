@@ -2,9 +2,9 @@
 # 📊 Power BI – Curso Completo para Análise e Visualização de Dados
 ---
 
-## 🔗 Conteúdos e Publicações Relacionadas
+## 🔗 Projetos realizados no curso
 
-Acompanhe alguns conteúdos e atividades relacionados ao curso publicados no LinkedIn:
+ Publicados no LinkedIn:
 
 - 📌 [Introdução ao Power BI e primeiros dashboards](https://www.linkedin.com/feed/update/urn:li:activity:7373351031780368384/)
 - 📌 [Aprendizados e práticas com Power BI](https://www.linkedin.com/feed/update/urn:li:activity:7371985963473846272/)
